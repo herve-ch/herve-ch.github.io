@@ -1,4 +1,5 @@
 [{
+    "id":1,
     "name": "Steak frites",
     "description": "Steak avec des frites",
     "body": "Mettre du steak et des frites",
@@ -6,6 +7,7 @@
     "rating": 5
 },
 {
+    "id":2,
     "name": "Chao men",
     "description": "Nouille chinoise",
     "body": "Mettre des nouilles et du poulet",
@@ -13,6 +15,7 @@
     "rating": 5
 },
 {
+    "id":3,
     "name": "Poulet petit pois",
     "description": "Poulet aux petits poids, perles de jade",
     "body": "Mettre des petits poids \n mélanger avec du poulet",
