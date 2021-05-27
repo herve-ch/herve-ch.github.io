@@ -3,4 +3,11 @@
     "description": "Steak avec des frites",
     "body": "Mettre du steak et des frites",
     "img": "steak_frite.png"
-}]
+},
+{
+    "name": "Chao men",
+    "description": "Nouille chinoise",
+    "body": "Mettre des nouilles et du poulet",
+    "img": "chao_men.png"
+}
+]
