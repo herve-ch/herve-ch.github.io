@@ -1,8 +1,8 @@
 [{
-    "name": "Steak frite",
+    "name": "Steak frites",
     "description": "Steak avec des frites",
     "body": "Mettre du steak et des frites",
-    "img": "steak_frite.PNG",
+    "img": "steak_frites.PNG",
     "rating": 5
 },
 {
