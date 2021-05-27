@@ -2,21 +2,21 @@
     "name": "Steak frite",
     "description": "Steak avec des frites",
     "body": "Mettre du steak et des frites",
-    "img": "steak_frite.png",
+    "img": "steak_frite.PNG",
     "rating": 5
 },
 {
     "name": "Chao men",
     "description": "Nouille chinoise",
     "body": "Mettre des nouilles et du poulet",
-    "img": "chao_men.png",
+    "img": "chao_men.PNG",
     "rating": 5
 },
 {
     "name": "Poulet petit pois",
     "description": "Poulet aux petits poids, perles de jade",
     "body": "Mettre des petits poids \n mélanger avec du poulet",
-    "img": "petits_pois.png",
+    "img": "petits_pois.PNG",
     "rating": 3
 }
 ]
