@@ -22,4 +22,13 @@
     "img": "petits_pois.PNG",
     "rating": 3
 }
+
+{
+    "id":4,
+    "name": "Poulet citron",
+    "description": "Poulet avec saucue citron",
+    "body": "Mettre poulet avec citron",
+    "img": "poulet_citron.PNG",
+    "rating": 3
+}
 ]
