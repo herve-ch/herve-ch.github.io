@@ -30,5 +30,13 @@
     "body": "Mettre poulet avec citron",
     "img": "poulet_citron.PNG",
     "rating": 3
+},
+{
+    "id":5,
+    "name": "Chipou aux oignons",
+    "description": "Délicieux chipou",
+    "body": "Prendre un mouton poilu, mettre des oignons, cuire au four",
+    "img": "chipou.jpg",
+    "rating": 5
 }
 ]
